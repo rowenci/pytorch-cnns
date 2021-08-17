@@ -130,3 +130,4 @@ dmypy.json
 
 /trained_models/
 /__pycache__/
+/datas/
