@@ -1,0 +1,44 @@
+2021-08-14 17:02:46,523 - INFO - training on cuda:0
+2021-08-14 17:02:46,524 - INFO - -------epoch 1-------
+2021-08-14 17:07:05,207 - INFO - train_step : 469
+2021-08-14 17:07:05,208 - INFO - train_loss : 0.8961770405520254
+2021-08-14 17:07:32,848 - INFO - test_loss is : 0.49662778573700145
+2021-08-14 17:07:32,850 - INFO - total_accuracy is 0.8182357549667358
+2021-08-14 17:07:33,450 - INFO - model has been saved
+2021-08-14 17:07:33,451 - INFO - time cost : 286 seconds
+2021-08-14 17:07:33,452 - INFO - -------epoch 2-------
+2021-08-14 17:12:15,520 - INFO - train_step : 938
+2021-08-14 17:12:15,523 - INFO - train_loss : 0.41308936489416337
+2021-08-14 17:12:45,665 - INFO - test_loss is : 0.36676185474365575
+2021-08-14 17:12:45,669 - INFO - total_accuracy is 0.8574960827827454
+2021-08-14 17:12:46,304 - INFO - model has been saved
+2021-08-14 17:12:46,305 - INFO - time cost : 312 seconds
+2021-08-14 17:12:46,306 - INFO - -------epoch 3-------
+2021-08-14 17:17:46,968 - INFO - train_step : 1407
+2021-08-14 17:17:46,969 - INFO - train_loss : 0.34416171997340755
+2021-08-14 17:18:17,910 - INFO - test_loss is : 0.37114736796179904
+2021-08-14 17:18:17,912 - INFO - total_accuracy is 0.8629351258277893
+2021-08-14 17:18:18,236 - INFO - model has been saved
+2021-08-14 17:18:18,238 - INFO - time cost : 331 seconds
+2021-08-14 17:18:18,240 - INFO - -------epoch 4-------
+2021-08-14 17:23:09,886 - INFO - train_step : 1876
+2021-08-14 17:23:09,887 - INFO - train_loss : 0.3083597641509733
+2021-08-14 17:23:35,386 - INFO - test_loss is : 0.3129857393759715
+2021-08-14 17:23:35,389 - INFO - total_accuracy is 0.8839003443717957
+2021-08-14 17:23:35,953 - INFO - model has been saved
+2021-08-14 17:23:35,954 - INFO - time cost : 317 seconds
+2021-08-14 17:23:35,956 - INFO - -------epoch 5-------
+2021-08-14 17:28:24,303 - INFO - train_step : 2345
+2021-08-14 17:28:24,305 - INFO - train_loss : 0.28285379196280863
+2021-08-14 17:28:49,608 - INFO - test_loss is : 0.3214978021156939
+2021-08-14 17:28:49,611 - INFO - total_accuracy is 0.8801424503326416
+2021-08-14 17:28:50,179 - INFO - model has been saved
+2021-08-14 17:28:50,180 - INFO - time cost : 314 seconds
+
+
+training on  cuda
+epoch 1, loss 0.0087, train acc 0.570, test acc 0.831, time 45.5 sec
+epoch 2, loss 0.0032, train acc 0.851, test acc 0.853, time 48.5 sec
+epoch 3, loss 0.0026, train acc 0.880, test acc 0.883, time 45.4 sec
+epoch 4, loss 0.0022, train acc 0.895, test acc 0.887, time 46.6 sec
+epoch 5, loss 0.0020, train acc 0.906, test acc 0.896, time 43.5 sec

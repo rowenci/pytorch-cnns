@@ -1,0 +1,79 @@
+2021-08-13 19:34:48,742 - INFO - training on cuda:0
+2021-08-13 19:34:48,743 - INFO - -------epoch 1-------
+2021-08-13 19:35:02,035 - INFO - train_step : 469
+2021-08-13 19:35:02,037 - INFO - train_loss : 0.7027768273470498
+2021-08-13 19:35:03,788 - INFO - test_loss is : 0.5189870407309713
+2021-08-13 19:35:03,790 - INFO - total_accuracy is 0.8086432218551636
+2021-08-13 19:35:03,799 - INFO - model has been saved
+2021-08-13 19:35:03,799 - INFO - time cost : 15 seconds
+2021-08-13 19:35:03,800 - INFO - -------epoch 2-------
+2021-08-13 19:35:15,722 - INFO - train_step : 938
+2021-08-13 19:35:15,723 - INFO - train_loss : 0.42907068196898585
+2021-08-13 19:35:17,315 - INFO - test_loss is : 0.3989369591957406
+2021-08-13 19:35:17,316 - INFO - total_accuracy is 0.8569027185440063
+2021-08-13 19:35:17,324 - INFO - model has been saved
+2021-08-13 19:35:17,324 - INFO - time cost : 13 seconds
+2021-08-13 19:35:17,325 - INFO - -------epoch 3-------
+2021-08-13 19:35:28,268 - INFO - train_step : 1407
+2021-08-13 19:35:28,269 - INFO - train_loss : 0.3547478372862598
+2021-08-13 19:35:29,866 - INFO - test_loss is : 0.3541942976320846
+2021-08-13 19:35:29,867 - INFO - total_accuracy is 0.8682753443717957
+2021-08-13 19:35:29,875 - INFO - model has been saved
+2021-08-13 19:35:29,876 - INFO - time cost : 12 seconds
+2021-08-13 19:35:29,877 - INFO - -------epoch 4-------
+2021-08-13 19:35:41,553 - INFO - train_step : 1876
+2021-08-13 19:35:41,554 - INFO - train_loss : 0.31768328958609976
+2021-08-13 19:35:43,287 - INFO - test_loss is : 0.3273179831006859
+2021-08-13 19:35:43,288 - INFO - total_accuracy is 0.8841969966888428
+2021-08-13 19:35:43,298 - INFO - model has been saved
+2021-08-13 19:35:43,299 - INFO - time cost : 13 seconds
+2021-08-13 19:35:43,300 - INFO - -------epoch 5-------
+2021-08-13 19:35:55,304 - INFO - train_step : 2345
+2021-08-13 19:35:55,305 - INFO - train_loss : 0.29085466306982266
+2021-08-13 19:35:56,853 - INFO - test_loss is : 0.317653441165067
+2021-08-13 19:35:56,854 - INFO - total_accuracy is 0.887460470199585
+2021-08-13 19:35:56,868 - INFO - model has been saved
+2021-08-13 19:35:56,894 - INFO - time cost : 13 seconds
+2021-08-13 19:35:56,897 - INFO - -------epoch 6-------
+2021-08-13 19:36:08,385 - INFO - train_step : 2814
+2021-08-13 19:36:08,386 - INFO - train_loss : 0.26773643728766616
+2021-08-13 19:36:09,975 - INFO - test_loss is : 0.29728603476210486
+2021-08-13 19:36:09,976 - INFO - total_accuracy is 0.8913172483444214
+2021-08-13 19:36:09,989 - INFO - model has been saved
+2021-08-13 19:36:09,990 - INFO - time cost : 13 seconds
+2021-08-13 19:36:09,991 - INFO - -------epoch 7-------
+2021-08-13 19:36:21,216 - INFO - train_step : 3283
+2021-08-13 19:36:21,217 - INFO - train_loss : 0.2573660007004799
+2021-08-13 19:36:22,975 - INFO - test_loss is : 0.28189863632374174
+2021-08-13 19:36:22,977 - INFO - total_accuracy is 0.8979430794715881
+2021-08-13 19:36:22,984 - INFO - model has been saved
+2021-08-13 19:36:22,985 - INFO - time cost : 12 seconds
+2021-08-13 19:36:22,985 - INFO - -------epoch 8-------
+2021-08-13 19:36:35,025 - INFO - train_step : 3752
+2021-08-13 19:36:35,026 - INFO - train_loss : 0.2411140768226784
+2021-08-13 19:36:36,743 - INFO - test_loss is : 0.2744475734196132
+2021-08-13 19:36:36,744 - INFO - total_accuracy is 0.8974485993385315
+2021-08-13 19:36:36,756 - INFO - model has been saved
+2021-08-13 19:36:36,756 - INFO - time cost : 13 seconds
+2021-08-13 19:36:36,757 - INFO - -------epoch 9-------
+2021-08-13 19:36:48,840 - INFO - train_step : 4221
+2021-08-13 19:36:48,841 - INFO - train_loss : 0.22875178042950153
+2021-08-13 19:36:50,591 - INFO - test_loss is : 0.2754648307079001
+2021-08-13 19:36:50,592 - INFO - total_accuracy is 0.9015032052993774
+2021-08-13 19:36:50,604 - INFO - model has been saved
+2021-08-13 19:36:50,604 - INFO - time cost : 13 seconds
+2021-08-13 19:36:50,605 - INFO - -------epoch 10-------
+2021-08-13 19:37:02,714 - INFO - train_step : 4690
+2021-08-13 19:37:02,715 - INFO - train_loss : 0.21713191366144843
+2021-08-13 19:37:04,614 - INFO - test_loss is : 0.2639585801317722
+2021-08-13 19:37:04,615 - INFO - total_accuracy is 0.9058544635772705
+2021-08-13 19:37:04,630 - INFO - model has been saved
+2021-08-13 19:37:04,630 - INFO - time cost : 14 seconds
+
+
+training on  cuda
+epoch 1, loss 0.0072, train acc 0.322, test acc 0.584, time 3.7 sec
+epoch 2, loss 0.0037, train acc 0.649, test acc 0.699, time 1.8 sec
+epoch 3, loss 0.0030, train acc 0.718, test acc 0.724, time 1.7 sec
+epoch 4, loss 0.0027, train acc 0.741, test acc 0.746, time 1.6 sec
+epoch 5, loss 0.0024, train acc 0.759, test acc 0.759, time 1.7 sec
