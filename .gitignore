@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-trained_models/
+/trained_models/
+/__pycache__/
