@@ -64,6 +64,7 @@ def getResNet():
 
 
 """
+创新：残差块
 model = getResNet()
 
 Sequential(

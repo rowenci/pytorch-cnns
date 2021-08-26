@@ -36,6 +36,7 @@ def get_nin(in_channels, out_channels):
 
 
 """
+创新：使用1 * 1卷积来代替全连接层
 model = get_nin(1, 10)
 
 Sequential(

@@ -89,6 +89,7 @@ def getNet():
 
 
 """
+创新：Inception块
 model = getNet()
 
 Sequential(

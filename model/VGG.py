@@ -38,6 +38,8 @@ def vgg(conv_arch, fc_features, fc_hidden_units):
 
 
 """
+创新：使用了块结构来构建网络
+
 ratio = 8
 conv_arch = ((1, 1, 64 // ratio), (1, 64 // ratio, 128 // ratio), (2, 128 // ratio, 256 // ratio), (2, 256 // ratio, 512 // ratio), (2, 512 // ratio, 512 // ratio))
 fc_features = 512 * 7 * 7
