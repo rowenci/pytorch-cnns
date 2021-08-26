@@ -68,5 +68,11 @@ writer = SummaryWriter("tensorLogs/googlenet")
 """
 
 """
+6. ResNet
 model = model.ResNet.getResNet()
+"""
+
+"""
+7.DenseNet
+model = model.DenseNet.getDenseNet()
 """
